@@ -13,7 +13,7 @@ $( function() {
 		]
 	} )( 'overlay' );
 	
-        var endDate = "April  15, 2023 12:00:00";
+        var endDate = "May  20, 2023 12:00:00";
 
         $('.countdown.simple').countdown({ date: endDate });
 
